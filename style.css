@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: Geneva;
+}
+#mybutton{
+    font-size: 3em;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+#mylabel{
+    font-size: 3em;
+}
